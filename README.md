@@ -9,7 +9,6 @@ Purpose of this assignment was to build a day planner based on the hours of a ty
 #### Browser
 
 https://njleoni.github.io/homework-day-planner
-<a href="https://njleoni.github.io/homework-day-planner" target="_blank">Day Panner</a>
 
 #### Github Repo
 
