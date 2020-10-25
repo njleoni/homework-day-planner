@@ -46,7 +46,7 @@ $("*[data-store]").each(function(){
   $(this).val(localStorage.getItem("item" + $(this).attr("data-store")))
 }) 
 
-//saves each item upon a click event
+//saves each item individually upon clicking teh save button
 $("button").on("click", function() {
   var element = $(this).val();
   var userText = $(this).siblings(".usertext").val();
@@ -54,8 +54,3 @@ $("button").on("click", function() {
 });
 
 })
-
-
-
-
-

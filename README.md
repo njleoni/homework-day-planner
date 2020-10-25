@@ -1,6 +1,19 @@
 # homework-day-planner
 
-moment('DD/MM/YYYY').format()
-"2020-10-20T00:06:34-06:00"
+## Homework Description
 
-<script type = "text/JavaScript" src = " https://MomentJS.com/downloads/moment.js"></script>
+Purpose of this assignment was to build a day planner based on the hours of a typical work day. The planner will have the date and time at the top of the page. It will have a row for each work hour of the day that you will input text as well as save each hour individually. The background of each text block will change color based on time of day with different colors for past, present and future.
+
+## URL
+
+#### Browser
+
+https://njleoni.github.io/homework-day-planner
+
+#### Github Repo
+
+https://github.com/njleoni/homework-day-planner
+
+## Screenshot
+
+![Screenshot](/assets/images/day-planner.PNG)
